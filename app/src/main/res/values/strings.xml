@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="load_questionnaire">Load questionnaire</string>
+    <string name="send_answers">Send answers</string>
+    <string name="msg_warning">Warning!</string>
+    <string name="msg_incorrectdata">Incorrect data: %1$s</string>
+    <string name="msg_sentdata">Answers sent successfully!\n (see Log!)</string>
+</resources>
